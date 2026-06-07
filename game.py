@@ -226,3 +226,5 @@ Please input a valid option''', flush=True)
 data = load_json("game.json")
 
 gameplay(data, "Dirtmouth")
+
+#teste
